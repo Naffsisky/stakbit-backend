@@ -1,0 +1,19 @@
+{
+  "name": "stockbit-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "fastify": "^5.8.4",
+    "node-fetch": "^2.7.0",
+    "ws": "^8.20.0"
+  }
+}
